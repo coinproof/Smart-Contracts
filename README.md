@@ -1,4 +1,4 @@
-[<img src="https://github.com/HonestInsurance/Resources/blob/master/branding/HonestInsurance-hor-blue.png?raw=true" width="250">](https://www.honestinsurance.net)
+[<img src="https://boobytrap.live/static/media/logo.7e94bd69.png" width="250">](https://www.honestinsurance.net)
 
 -----------------------
 
